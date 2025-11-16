@@ -1120,5 +1120,10 @@
       "songs": "Songs",
       "time":  "Time",
       "artists": "Artists"
+    },
+    "blocky": {
+        "queries": "Queries",
+        "blocked": "Blocked",
+        "denylist": "Denylist"
     }
 }
